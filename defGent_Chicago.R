@@ -19,7 +19,9 @@ library(raster)
 library(dplyr)
 
 #Set working directory
-setwd("C:/Users/mstuhlm1/OneDrive - DePaul University/Admin/2022-2023/RWorkshop/DataCode") 
+#setwd("C:/Users/mstuhlm1/OneDrive - DePaul University/Admin/2022-2023/RWorkshop/DataCode") 
+setwd("INSERTYOURFILEPATHHERE")
+
 #Import megatract
 MT = shapefile('./censusMultiYear.shp')
 
