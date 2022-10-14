@@ -15,3 +15,8 @@ Stuhlmacher, Michelle, Yushim Kim, and Ji Eun Kim. (2022). “The Role of Green 
 6. Q&A
 
 Slides: https://docs.google.com/presentation/d/1GaISnFWfacZc6AV-jHqw4GUjnBL5FLg_FdoYAfTHQuw/edit?usp=sharing
+
+## Workshop Preparation:
+To prepare for the workshop, create an account at https://www.nhgis.org/ 
+
+We will use NHGIS for downloading census data in this workshop session.
